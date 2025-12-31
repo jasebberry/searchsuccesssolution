@@ -86,3 +86,8 @@ Stop guessing shortcode syntax and start creating functional content instantly. 
 
 Learn more:  
 https://searchsuccessolution.com/short-code-generator/
+<p>
+You can also review the Custom CSS Generator documentation on GitLab here:
+<a href="GITLAB-README-LINK">GitLab documentation</a>
+</p>
+
