@@ -96,14 +96,14 @@ Instagram Hashtag Generator guide hosted on Netlify.
 This page explains how to generate relevant and high-performing hashtags
 to improve reach, engagement, and discoverability on Instagram.
 You can explore the full guide here:
-https://6954f6932d6b4a414ffe1724--magnificent-fenglisu-324eaf.netlify.app/
+(netlify)[https://6954f6932d6b4a414ffe1724--magnificent-fenglisu-324eaf.netlify.app/]
 You can also find an overview of these tools documented on SourceForge.
-https://sourceforge.net/p/searchsuccesssolution/wiki/Search%20Success%20Solution/
+(SourceForge)[https://sourceforge.net/p/searchsuccesssolution/wiki/Search%20Success%20Solution/]
 
 A complete overview of all Search Success Solution tools and resources
 is also available in our public Notion workspace, which serves as a
 central hub for documentation and tool references.
-https://freezing-collision-1aa.notion.site/Search-Success-Solution-Tools-Resources-2da5960aa43280e69fe0c5170dda0dee
+[notion](https://freezing-collision-1aa.notion.site/Search-Success-Solution-Tools-Resources-2da5960aa43280e69fe0c5170dda0dee)
 
 
 Detailed documentation for the SERP Preview Generator is also available
@@ -111,15 +111,15 @@ as a downloadable reference document hosted on OneDrive.
 This document explains how to preview titles, descriptions, and URLs
 before publishing pages on Google.
 
-https://1drv.ms/w/c/6e827ec20c9055f3/IQC__EhPZJAKRJ5J0q-BASDDAe-JLm92jyTkP3eGnlyb8zs?e=X96eYy
+[OneDrive](https://1drv.ms/w/c/6e827ec20c9055f3/IQC__EhPZJAKRJ5J0q-BASDDAe-JLm92jyTkP3eGnlyb8zs?e=X96eYy)
 
 
 ## Search Success Solution – Central Documentation (AWS)
   Comprehensive and centrally hosted technical documentation on AWS, covering tool usage, implementation details, and structured references for the Search Success Solution ecosystem.  
-  https://searchsuccesssolution-docs.s3.eu-north-1.amazonaws.com/index.html
+ [AWS](https://searchsuccesssolution-docs.s3.eu-north-1.amazonaws.com/index.html)
 ## Live Code Preview (CodeSandbox):
   Interactive CodeSandbox live preview for the project, allowing you to view, test, and edit the HTML content in the browser.  
-  https://codesandbox.io/p/sandbox/8nc63t?file=%2Findex.html%3A2%2C17
+  [CodeSandbox](https://codesandbox.io/p/sandbox/8nc63t?file=%2Findex.html%3A2%2C17)
 
 
 
