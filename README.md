@@ -1,6 +1,7 @@
 # Shortcode Generator
 
-Shortcodes are a powerful way to add dynamic content to your website without writing complex code. Our Shortcode Generator helps you create clean, ready-to-use shortcodes in seconds, even if you have zero technical background.
+Shortcodes are a powerful way to add dynamic content to your website without writing complex code. Our [Shortcode Generator tool](https://searchsuccessolution.com/short-code-generator/)
+helps you create clean, ready-to-use shortcodes in seconds, even if you have zero technical background.
 
 Instead of memorizing syntax or risking broken layouts, simply configure your options and copy the generated shortcode into your page, post, or widget.
 
